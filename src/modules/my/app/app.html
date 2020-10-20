@@ -1,0 +1,18 @@
+<template>
+    <div class="header">Timer Component</div>
+    <div class="container">
+        <!--
+            Embedding the Timer Component.
+        -->
+        <clock-timer
+            duration-in-seconds="30"
+            start-on-load
+            ontimeup={handleTimeUp}
+        ></clock-timer>
+    </div>
+    <div class="footer">
+        <a href="https://github.com/adityanaag3/lwc-timer" target="_blank">
+            Checkout this GitHub repo </a
+        >&nbsp;for source code and documentation.
+    </div>
+</template>

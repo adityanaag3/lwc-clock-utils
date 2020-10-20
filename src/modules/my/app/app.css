@@ -1,0 +1,14 @@
+.container {
+    width: 100%;
+}
+
+.header {
+    padding: 1rem;
+    background: #c4d0fe;
+    margin-bottom: 2rem;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 5rem;
+}
