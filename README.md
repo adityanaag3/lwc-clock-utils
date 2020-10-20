@@ -1,7 +1,5 @@
 # Clock Utils for Lightning Web Components
 
----
-
 ## Timer Component
 
 A visually stunning countdown timer.
