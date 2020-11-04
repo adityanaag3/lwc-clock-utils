@@ -1,9 +1,9 @@
 {
-    "name": "my-timer",
+    "name": "lwc-clock-utils",
     "description": "My amazing LWC app",
     "version": "0.0.1",
     "author": "adityanaag3",
-    "bugs": "https://github.com/adityanaag3/my-timer/issues",
+    "bugs": "https://github.com/adityanaag3/lwc-clock-utils/issues",
     "dependencies": {
         "compression": "^1.7.4",
         "express": "^4.17.1",
@@ -21,7 +21,7 @@
         "npm": ">=6.4.1",
         "yarn": ">=1.9.4"
     },
-    "homepage": "https://github.com/adityanaag3/my-timer",
+    "homepage": "https://github.com/adityanaag3/lwc-clock-utils",
     "husky": {
         "hooks": {
             "pre-commit": "lint-staged"
@@ -39,7 +39,7 @@
             "eslint"
         ]
     },
-    "repository": "adityanaag3/my-timer",
+    "repository": "adityanaag3/lwc-clock-utils",
     "scripts": {
         "build": "lwc-services build -m production",
         "build:development": "lwc-services build",
