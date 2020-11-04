@@ -4,7 +4,7 @@ export default class App extends LightningElement {
     /**
      * Event Handler to handle the timeup event from <clock-timer>
      */
-    ontimeup() {
+    handleTimeUp() {
         // eslint-disable-next-line no-alert
         alert('Time Up');
     }
