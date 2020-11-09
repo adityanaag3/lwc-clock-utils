@@ -2,6 +2,8 @@
 
 [![npm version](https://badge.fury.io/js/lwc-clock-utils.svg)](https://badge.fury.io/js/lwc-clock-utils)
 
+A collection of clock related Lightning Web Components Open Source (LWC OSS) components.
+
 ## Installation and Usage
 
 -   Run the command `npm install lwc-clock-utils` in your LWC OSS project's root folder.
