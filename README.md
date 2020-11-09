@@ -1,5 +1,7 @@
 # Clock Utils for Lightning Web Components
 
+[![npm version](https://badge.fury.io/js/lwc-clock-utils.svg)](https://badge.fury.io/js/lwc-clock-utils)
+
 ## Timer Component
 
 A visually stunning countdown timer.
