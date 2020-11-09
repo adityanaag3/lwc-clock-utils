@@ -2,6 +2,12 @@
 
 [![npm version](https://badge.fury.io/js/lwc-clock-utils.svg)](https://badge.fury.io/js/lwc-clock-utils)
 
+## Installation and Usage
+
+- Run the command `npm install lwc-clock-utils` in your LWC OSS project's root folder.
+- Update the `lwc.config.json` file in your project to include a new object `{ "npm": "lwc-clock-utils" }` in the `modules` array.
+- Use any of the components listed below. 
+
 ## Timer Component
 
 A visually stunning countdown timer.
