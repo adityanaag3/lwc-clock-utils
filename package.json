@@ -1,7 +1,7 @@
 {
     "name": "lwc-clock-utils",
-    "description": "My amazing utility components",
-    "version": "0.0.1",
+    "description": "A collection of clock related LWC OSS Components",
+    "version": "0.0.2",
     "author": "adityanaag3",
     "bugs": "https://github.com/adityanaag3/lwc-clock-utils/issues",
     "dependencies": {
